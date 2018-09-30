@@ -1,0 +1,17 @@
+﻿Build started 1/31/2017 10:06:32 AM.
+     1>Project "C:\Users\River\Desktop\Folders\The Island of Sentinel\The Island of Sentinel\The Island of Sentinel.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\The Island of Sentinel.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         The Island of Sentinel.vcxproj -> C:\Users\River\Desktop\Folders\The Island of Sentinel\Debug\The Island of Sentinel.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\The Island of Sentinel.unsuccessfulbuild".
+         Touching "Debug\The Island of Sentinel.lastbuildstate".
+     1>Done Building Project "C:\Users\River\Desktop\Folders\The Island of Sentinel\The Island of Sentinel\The Island of Sentinel.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
